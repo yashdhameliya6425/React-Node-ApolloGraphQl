@@ -1,0 +1,12 @@
+export const USER_EVENTS = {
+    PET_CREATED: 'PET_CREATED',
+    PET_DELETED: 'PET_DELETED',
+    PET_UPDATED:'PET_UPDATED',
+    USER_DELETE:'USER_DELETE'
+}
+
+
+  
+
+
+
